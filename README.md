@@ -40,6 +40,15 @@ The application integrates two custom AI models:
 
 ---
 
+## 💬 Medical Chatbot
+- Integrated AI chatbot for patients
+- Answers medical and dental-related questions
+- Helps patients understand:
+  - Dental conditions
+  - AI diagnosis results
+- Available directly inside the app
+
+---
 ## 👨‍⚕️ Doctor Features
 
 ### 🔍 AI Diagnosis Page
@@ -68,6 +77,14 @@ The application integrates two custom AI models:
 
 ---
 
+## 🌐 Language & Theme Support
+
+- Supports **English and Arabic**
+- Includes **Dark Mode** and **Light Mode**
+- Clean and user-friendly UI for all users
+
+---
+
 ## 🛠 Tech Stack
 - Flutter (Responsive UI)
 - Dart
@@ -82,6 +99,11 @@ The application integrates two custom AI models:
 - No real patient data is included in this repository
 - This system is designed to **assist**, not replace, professional medical judgment
 
+---
+
+## 🎥 Demo
+- Screenshots: `demo/images/`
+  
 ---
 
 ## 🎓 Project Type
